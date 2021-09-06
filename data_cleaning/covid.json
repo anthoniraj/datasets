@@ -1,0 +1,28 @@
+{
+"TT": {
+	   "dates":{
+	      "2020-03-26":{
+	         "delta":{
+	            "confirmed":1
+	         },
+	         "delta7":{
+	            "confirmed":1
+	         },
+	         "total":{
+	            "confirmed":1
+	         }
+	      },
+	      "2020-03-27":{
+	         "delta":{
+	            "confirmed":5
+	         },
+	         "delta7":{
+	            "confirmed":6
+	         },
+	         "total":{
+	            "confirmed":6
+	         }
+	      }
+	   }
+	}	  
+}
